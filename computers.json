@@ -1,0 +1,77 @@
+{
+    "computers": [
+        {
+            "alias": "cs-htz-us-pdx-000",
+            "ip": "5.78.90.229",
+            "user": "voi",
+            "port": "42069",
+            "tags": [
+                "relay"
+            ]
+        },
+        {
+            "alias": "cs-htz-fi-hel-000",
+            "ip": "65.108.86.189",
+            "user": "voi",
+            "port": "42069",
+            "tags": [
+                "relay"
+            ]
+        },
+        {
+            "alias": "cs-htz-de-hoq-000",
+            "ip": "91.107.193.87",
+            "user": "voi",
+            "port": "42069",
+            "tags": [
+                "relay"
+            ]
+        },
+        {
+            "alias": "cs-htz-de-nue-000",
+            "ip": "195.201.149.161",
+            "user": "voi",
+            "port": "42069",
+            "tags": [
+                "relay"
+            ]
+        },
+        {
+            "alias": "cs-htz-us-ash-000",
+            "ip": "5.161.177.171",
+            "user": "voinode",
+            "port": "42069",
+            "tags": [
+                "relay",
+                "part"
+            ]
+        },
+        {
+            "alias": "cs-vul-us-ewr-000",
+            "ip": "216.155.152.151",
+            "user": "voi",
+            "port": "42069",
+            "tags": [
+                "relay"
+            ]
+        },
+        {
+            "alias": "ovh-node",
+            "ip": "149.56.26.18",
+            "user": "ubuntu",
+            "port": "22",
+            "tags": [
+                "part"
+            ]
+        },
+        {
+            "alias": "home-node",
+            "ip": "192.168.1.162",
+            "user": "csw",
+            "port": "22",
+            "tags": [
+                "part"
+            ]
+        }
+    ]
+}
